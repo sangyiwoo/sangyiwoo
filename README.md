@@ -3,5 +3,5 @@
 
 
  # 📝STUDYING📝
- * [`C language`](https://github.com/woooooosangyi/C-language.git)
+ * [`C Language`](https://github.com/woooooosangyi/C-language.git)
  * [`Data Structure`](https://github.com/sangyiwoo/Data-Structure.git)
