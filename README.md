@@ -6,4 +6,4 @@
  * [`C Language`](https://github.com/woooooosangyi/C-language.git)
  * [`Data Structure`](https://github.com/sangyiwoo/Data-Structure.git)
  * [`Algorithm`](https://github.com/sangyiwoo/Algorithm.git)
- * [`Data Structure`](https://github.com/sangyiwoo/Java.git)
+ * [`Java`](https://github.com/sangyiwoo/Java.git)
