@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+---
 # Prewiew
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sangyiwoo&locale=ko)](https://git.io/streak-stats)
@@ -14,10 +14,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyiwoo)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+---
 
  # ✨ME✨
  <a href="https://www.instagram.com/woooooooosangyi/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
+---
 ---
 
  # 📝STUDYING📝
