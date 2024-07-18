@@ -10,8 +10,6 @@
 # Prewiew
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sangyiwoo&locale=ko)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangyiwoo)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyiwoo)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ---
@@ -28,4 +26,4 @@
  * [`Algorithm`](https://github.com/sangyiwoo/Algorithm.git)
  * [`Java`](https://github.com/sangyiwoo/Java.git)
  * [`Python`](https://github.com/sangyiwoo/Python.git)
-
+ * [`CPP`](https://github.com/sangyiwoo/CPP.git)
