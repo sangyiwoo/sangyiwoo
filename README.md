@@ -15,7 +15,7 @@
   <a href="https://github.com/sangyiwoo/Python.git"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 
   <a href="https://github.com/sangyiwoo/Algorithm.git"><img src="https://img.shields.io/badge/Algorithm-FA243C?style=for-the-badge&logo=white"/></a>
-  <a href="https://github.com/sangyiwoo/Algorithm.git"><img src="https://img.shields.io/badge/Data Structure-512BD4?style=for-the-badge&logo=white"/></a>
+  <a href="https://github.com/sangyiwoo/Data-Structure.git"><img src="https://img.shields.io/badge/Data Structure-512BD4?style=for-the-badge&logo=white"/></a>
 
 ---
 ---
